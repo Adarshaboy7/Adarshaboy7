@@ -51,4 +51,4 @@ let x=4;
 let y=7;
 console.log(x<y&&x==4)
 console.log(x<y||x==4)
-console.log(!Tr)
+
