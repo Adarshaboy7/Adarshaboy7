@@ -1,9 +1,9 @@
-//let name="Adarsha"
-//console.log(name.lenght)
+let name="Adarsha"
+console.log(name.lenght)
 console.log(name[0])
 console.log(name[1])
-let friend="Disha"
-console.log(friend)
+//let friend="Disha"
+//console.log(friend)
 //let myfriend="pappu")//dont do this
 //console.log(myfriend)
 //Template literals
